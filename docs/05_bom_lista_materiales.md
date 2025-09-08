@@ -1,0 +1,11 @@
+# 05 – BOM (lista de materiales)
+- CD4093 ×1–2
+- CD4011 o CD4043/4044 ×1
+- NE555 ×2
+- CD4017 ×1
+- CD4026 ×2
+- CD4081 ×1, CD4049/4069 ×1 (si hace falta)
+- Displays 7-seg cátodo común ×2 + resistencias segmentos
+- LEDs rojo/verde + resistencias
+- 2N2222 + diodo 1N4148/1N4007 + buzzer 5–9 V
+- Pasivos surtidos + 100 nF por CI
